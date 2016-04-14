@@ -4,9 +4,13 @@ For creating a tidy data set of wearable computing data originally from http://a
 ### Files in this repo:
 
 README.md 
+
 CodeBook.md -- codebook describing variables, the data and transformations
+
 run_analysis.R -- R code
+
 run_analysis.R /explanation
+
 
 ## run_analysis.R
 You should create one R script called run_analysis.R that does the following: 
